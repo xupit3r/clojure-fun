@@ -1,14 +1,12 @@
 # clojure-fun
 
-A Clojure library designed to ... well, that part is up to you.
+just some messing around with clojure. been a long time since i have used this or (lisp for that matter) and i miss it. just getting my barrings again 😉
 
-## Usage
-
-FIXME
+basically just a playground/scratch pad.
 
 ## License
 
-Copyright © 2023 FIXME
+Copyright © 2023 Joe D'Alessandro
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
